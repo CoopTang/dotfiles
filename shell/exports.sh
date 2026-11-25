@@ -1,0 +1,3 @@
+export EDITOR="vim"
+export DOTFILES="$HOME/dotfiles"
+export PATH="$HOME/.local/bin:$PATH"
