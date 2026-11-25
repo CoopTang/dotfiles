@@ -1,0 +1,1 @@
+export P10K_THEME_PATH="$(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme"

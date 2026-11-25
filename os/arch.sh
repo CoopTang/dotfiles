@@ -1,0 +1,1 @@
+export P10K_THEME_PATH="/usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme"
